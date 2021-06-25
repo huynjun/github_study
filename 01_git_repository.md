@@ -44,3 +44,24 @@ $ git push -u origin master
 
 - commit 내역이 없으면 업로드 불가능
 
+
+
+## clone
+
+- 원격 저장소 내용 전체 복제
+
+```bash
+$ git clone {원격저장소 url}
+```
+
+- 주의사항
+- 이미 git init이 되어있음
+
+## pull
+
+- 원격 저장소의 변경사항을 받아옴(업데이트)
+
+```bash
+$ git pull origin master
+```
+
