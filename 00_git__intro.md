@@ -79,6 +79,6 @@ $ git commit -m "commit message"
 - 커밋 목록은 git log 를 통해서 확인 할 수 있음
 
 ```bash
-$git log --online
+$git log --oneline
 ```
 
